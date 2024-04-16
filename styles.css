@@ -2,13 +2,10 @@
 	width: 100px;
 	height: 100px;
 	background-color: red;
+}
+.holder{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	margin: 0 auto;
-}
-div{
-	padding: 1em;
-	max-width: 75%;
 }
 /* Your CSS Code here. */
